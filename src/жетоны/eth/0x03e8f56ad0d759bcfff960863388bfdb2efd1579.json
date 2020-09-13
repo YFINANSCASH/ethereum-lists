@@ -1,0 +1,37 @@
+{
+"symbol": "YFI CASH",
+
+"name": "yearn.finance cash",
+
+"type": "ERC20",
+
+"address": "0x03e8f56ad0d759bcfff960863388bfdb2efd1579",
+"ens_address": "",
+"decimals":18 ,
+"website": "yficash.in",
+"logo": {<img src="https://i0.wampi.ru/2020/09/14/logocb2d172fcc1bc344.png" alt="logo" border="0">
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/YFI_CASH",
+    "youtube": ""
+}
+}
